@@ -1,0 +1,2 @@
+The four files ( "spec_in_test", "spec_in_train", "spec_out_test" and "spec_out_train") are the input and output power of EDFAs measured from the experiment setup. 
+The .py files "EDFA_GPR_model_training" & "EDFA_NN_model_training" are utilized to train EFDA gain model.
